@@ -37,11 +37,6 @@ end
 
 --
 
-local placeId = game.PlaceId;
-if placeId ~= 2788229376 and placeId ~= 7213786345 then
-    return;
-end
-
 local MetamethodHolder = {
     AntiFlag = nil
 }
